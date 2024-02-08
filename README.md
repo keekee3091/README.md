@@ -10,7 +10,7 @@
 <!-- Bio -->
 <p align="center">
   🚀 Currently pursuing my Master's degree in Computer Science and Engineering<br>
-  🌱 Exploring the depths of software development and cloud computing<br>
+  🌱 Currently searching for apprenticeship in web development<br>
   💻 Coding enthusiast with a love for open-source projects<br>
 </p>
 
