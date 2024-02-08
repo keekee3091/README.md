@@ -1,56 +1,50 @@
-Hi, I'm Keenan Guiet
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding Gif" width="400" height="300">
+</p>
 
-🎓 I am currently pursuing a Master's Degree in Software Engineering at ISCOD.
+<!-- Introduction -->
+<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<p align="center">Passionate Software Developer | Competitive Programmer | Tech Enthusiast</p>
 
-💻 I am passionate about web development and using technology to solve real-world problems.
+<!-- Bio -->
+<p align="center">
+  🚀 Currently pursuing my Bachelor's degree in Computer Science and Engineering<br>
+  🌱 Exploring the depths of software development and cloud computing<br>
+  💻 Coding enthusiast with a love for open-source projects<br>
+</p>
 
-🚀 Always eager to learn and explore new technologies.
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" alt="Coding Gif" width="400" height="300">
+</p>
+<p align="center">
+  🚀 Languages: C, C++, JavaScript, Python, and more<br>
+  💻 Frontend: HTML, CSS, JavaScript<br>
+  🛠️ Tools: Git, GitHub, Visual Studio Code, and more<br>
+</p>
 
-🔍 Actively seeking new job opportunities in web development.
+<!-- Competitive Programming -->
+<h2 align="center">Competitive Programming</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/J5B1YB89rmjOEtj0ql/giphy.gif" alt="Competitive Programming Gif" width="400" height="300">
+</p>
+<p align="center">
+  🏆 Regular participant in Codeforces, LeetCode, and CodeChef contests<br>
+  🧠 Solving algorithmic puzzles and honing problem-solving skills<br>
+</p>
 
-My Skills
-Programming Languages
+<!-- Connect with me -->
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="Email" width="40" height="40"></a>
+  <a href="https://github.com/yourusername"><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="40" height="40"></a>
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="LinkedIn" width="40" height="40"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://media.giphy.com/media/4Z8bJTCxRzpua/giphy.gif" alt="Twitter" width="40" height="40"></a>
+</p>
 
-    HTML
-    CSS
-    JavaScript
-    Python
-
-Frontend Development
-
-    React.js
-    Vue.js
-
-Backend Development
-
-    Node.js
-    Express.js
-
-Database
-
-    MongoDB
-    SQL
-
-Version Control
-
-    Git
-    GitHub
-
-IDEs
-
-    Visual Studio Code
-    Atom
-
-Additional Tools
-
-    Google Sheets
-    Markdown
-    Stack Overflow
-
-Competitive Programming Platforms
-
-    Codeforces
-    LeetCode
-    HackerRank
-
-Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/keenan-guiet/ or reach out via email at My Gmail : keenan.guiet@gmail.com for any job opportunities or collaborations!
+<!-- Footer -->
+<p align="center">
+  Let's connect and build something amazing together! 🌟
+</p>
