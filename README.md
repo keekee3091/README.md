@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" alt="Coding Gif" width="400" height="300">
 </p>
 <p align="center">
-  🚀 Languages: C, C++, JavaScript, Python, and more<br>
+  🚀 Languages: C#, JavaScript, Python, and more<br>
   💻 Frontend: HTML, CSS, JavaScript<br>
   🛠️ Tools: Git, GitHub, Visual Studio Code, and more<br>
 </p>
