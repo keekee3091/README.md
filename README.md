@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" alt="Coding Gif" width="400" height="300">
 </p>
 <p align="center">
- 🚀 Langages: HTML, CSS, JavaScript, TypeScript, Java, Python, SQL
+🚀 Langages: HTML, CSS, JavaScript, TypeScript, Java, Python, SQL
 💻 Frontend: React Js, React Native
 🖥️ Backend: Express.js, Django
 🛠️ Tools: VS Code, Git, Node.js, Miro, Figma, Trello, Slack, Discord, Expo, Vercel
