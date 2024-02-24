@@ -20,9 +20,10 @@
   <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" alt="Coding Gif" width="400" height="300">
 </p>
 <p align="center">
-  🚀 Languages: C#, JavaScript, Python, and more<br>
-  💻 Frontend: HTML, CSS, JavaScript<br>
-  🛠️ Tools: Git, GitHub, Visual Studio Code, and more<br>
+ 🚀 Langages: HTML, CSS, JavaScript, TypeScript, Java, Python, SQL
+💻 Frontend: React Js, React Native
+🖥️ Backend: Express.js, Django
+🛠️ Tools: VS Code, Git, Node.js, Miro, Figma, Trello, Slack, Discord, Expo, Vercel
 </p>
 
 <!-- Competitive Programming -->
