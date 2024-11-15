@@ -20,10 +20,10 @@
   <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" alt="Coding Gif" width="400" height="300">
 </p>
 <p align="center">
-🚀 Langages: HTML, CSS, JavaScript, TypeScript, Java, Python, SQL
-💻 Frontend: React Js, React Native
-🖥️ Backend: Express.js, Django
-🛠️ Tools: VS Code, Git, Node.js, Miro, Figma, Trello, Slack, Discord, Expo, Vercel
+🚀 Langages: VB, C#, TypeScript, Java, Python, SQL, C/C++
+💻 Frontend: React Js, React Native, Angular Js, Telerik 
+🖥️ Backend: Express.js, Django, ASP.NET, Spring Boot, POCO, Qt
+🛠️ Tools:  Node.js, Expo, Vercel, Entity, Swagger, SQL Server
 </p>
 
 <!-- Competitive Programming -->
