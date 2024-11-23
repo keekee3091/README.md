@@ -5,12 +5,12 @@
 
 <!-- Introduction -->
 <h1 align="center">👋 Hi, I'm Keenan!</h1>
-<p align="center">Passionate Software Developer | Competitive Programmer | Tech Enthusiast</p>
+<p align="center">Passionate Software Developer | Virgin | Tech Enthusiast</p>
 
 <!-- Bio -->
 <p align="center">
   🚀 Currently pursuing my Master's degree in Computer Science and Engineering<br>
-  🌱 Currently searching for apprenticeship opportunities in web development<br>
+  🌱 I lovz .NET framework and hate everything in open-source<br>
   💻 Coding enthusiast with a love for open-source projects<br>
 </p>
 
