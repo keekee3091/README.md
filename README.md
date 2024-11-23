@@ -10,7 +10,7 @@
 <!-- Bio -->
 <p align="center">
   🚀 Currently pursuing my Master's degree in Computer Science and Engineering<br>
-  🌱 I lovz .NET framework and hate everything in open-source<br>
+  🌱 I love .NET framework and hate everything in open-source<br>
   💻 Coding enthusiast with a love for open-source projects<br>
 </p>
 
@@ -26,16 +26,6 @@
 🛠️ Tools:  Node.js, Expo, Vercel, Entity, Swagger, SQL Server
 </p>
 
-<!-- Competitive Programming -->
-<h2 align="center">Competitive Programming</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/J5B1YB89rmjOEtj0ql/giphy.gif" alt="Competitive Programming Gif" width="400" height="300">
-</p>
-<p align="center">
-  🏆 Regular participant in Codeforces, LeetCode, and CodeChef contests<br>
-  🧠 Solving algorithmic puzzles and honing problem-solving skills<br>
-</p>
-
 <!-- Connect with me -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
@@ -46,5 +36,5 @@
 
 <!-- Footer -->
 <p align="center">
-  Let's connect and build something amazing together! 🌟
+  My contact, please give me a job 🥺 👉👈
 </p>
