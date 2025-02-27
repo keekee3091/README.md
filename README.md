@@ -21,7 +21,7 @@
 </p>
 <p align="center">
 🚀 Langages: VB, C#, TypeScript, Java, Python, SQL, C/C++
-💻 Frontend: React Js, React Native, Angular Js, Telerik 
+💻 Frontend: React Js, React Native, Angular, Telerik 
 🖥️ Backend: Express.js, Django, ASP.NET, Spring Boot, POCO, Qt
 🛠️ Tools:  Node.js, Expo, Vercel, Entity, Swagger, SQL Server
 </p>
